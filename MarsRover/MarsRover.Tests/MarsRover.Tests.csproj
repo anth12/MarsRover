@@ -59,6 +59,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MapCoordinateTests.cs" />
     <Compile Include="Mock\MockRoverFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RoverExceptionTests.cs" />
